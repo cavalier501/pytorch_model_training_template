@@ -1,5 +1,5 @@
-模板还没测试过
-下次测试通过后回来修改、记录
+visg期间的pytorch深度学习训练代码框架
+最早有txy师姐完成
 
 目录：
 datasets(dataloader)
